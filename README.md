@@ -1,4 +1,4 @@
-# Mushroom Classification
+# Poisonous Mushroom Classification
 This project aims to classify mushrooms into poisonous or edible categories based on their physical characteristics. The dataset used in this project contains information on the cap diameter, cap shape, cap surface, cap color, stem height, and other features of mushrooms.
 
 # Data
