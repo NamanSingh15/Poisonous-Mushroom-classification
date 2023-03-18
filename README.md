@@ -38,7 +38,7 @@ README.md: This file contains information about the project.
 # Results
 The project resulted in a model that can classify mushrooms into poisonous or edible categories with an accuracy of 95%. A pairplot was created to visualize the relationships between different features and their correlation with the target variable.
 
-Pairplot
+
 
 # Conclusion
 In this project, we used machine learning techniques to classify mushrooms into poisonous or edible categories based on their physical characteristics. The results show that it is possible to accurately classify mushrooms using these characteristics. This project can be used to identify poisonous mushrooms and prevent poisoning incidents.
