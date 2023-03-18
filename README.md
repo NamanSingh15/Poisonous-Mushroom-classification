@@ -7,32 +7,42 @@ The data used in this project was obtained from the UCI Machine Learning Reposit
 # Tools and Libraries
 This project was implemented using Python programming language and the following libraries were used:
 
-Pandas: For data manipulation and analysis.
-Numpy: For numerical computations.
-Matplotlib: For data visualization.
-Seaborn: For statistical data visualization.
+Pandas: For data manipulation and analysis.  
+
+Numpy: For numerical computations.  
+
+Matplotlib: For data visualization.  
+
+Seaborn: For statistical data visualization.  
+
 
 
 # Project Structure
 The project is organized into the following directories and files:
 
-Mushroom_Classification/
-├── data/
-│   ├── secondary_data.csv
-├── images/
-│   ├── pairplot.png
-├── notebooks/
-│   ├── Mushroom_Classification.ipynb
-├── .gitignore
-├── LICENSE
-├── README.md
+Mushroom_Classification/  
+├── data/  
+│   ├── secondary_data.csv  
+├── images/  
+│   ├── pairplot.png  
+├── notebooks/  
+│   ├── Mushroom_Classification.ipynb  
+├── .gitignore  
+├── LICENSE  
+├── README.md  
 
-data/: This directory contains the dataset used in this project.
-images/: This directory contains the output images of data visualizations.
-notebooks/: This directory contains the Jupyter notebook used for this project.
-.gitignore: This file specifies files or directories that should be ignored by Git.
-LICENSE: This file contains the project's license information.
-README.md: This file contains information about the project.
+data/: This directory contains the dataset used in this project.  
+
+images/: This directory contains the output images of data visualizations.  
+
+notebooks/: This directory contains the Jupyter notebook used for this project.  
+
+.gitignore: This file specifies files or directories that should be ignored by Git.  
+
+LICENSE: This file contains the project's license information.  
+
+README.md: This file contains information about the project.  
+
 
 
 # Results
