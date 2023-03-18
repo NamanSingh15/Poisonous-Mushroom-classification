@@ -26,7 +26,7 @@ Mushroom_Classification/
 ├── images/  
 │   ├── pairplot.png  
 ├── notebooks/  
-│   ├── Mushroom_Classification.ipynb  
+│   ├── poison.ipynb  
 ├── .gitignore  
 ├── LICENSE  
 ├── README.md  
