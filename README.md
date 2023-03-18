@@ -7,10 +7,10 @@ The data used in this project was obtained from the UCI Machine Learning Reposit
 # Tools and Libraries
 This project was implemented using Python programming language and the following libraries were used:
 
-# Pandas: For data manipulation and analysis.
-# Numpy: For numerical computations.
-# Matplotlib: For data visualization.
-# Seaborn: For statistical data visualization.
+Pandas: For data manipulation and analysis.
+Numpy: For numerical computations.
+Matplotlib: For data visualization.
+Seaborn: For statistical data visualization.
 
 
 # Project Structure
